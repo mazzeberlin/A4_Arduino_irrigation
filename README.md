@@ -5,9 +5,12 @@ modules/components used:
 - Capacitive Soil Moisture Sensors v1.2
 - 16 relay board 12V
 - solenoid valves 12V
+- pump
 
 planned modules/components:
+- ultrasonic sensor for the tank
 - RTC
 - temp/ humidity sensor I2C
 - SD card
 - ESP
+
